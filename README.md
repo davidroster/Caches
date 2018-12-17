@@ -36,9 +36,5 @@ Complete the 3 functions in cache-test-skel.c which have /* YOUR CODE GOES
 HERE*/ comments in them.
 Additionally, determine the geometry of each of the three mystery caches and list these in
 a comment, along with your name, at the top of your modified cache-test-skel.c.
-4. Turn-in
-Submit your modified version of cache-test-skel.c to ucsb.ece.154a@gmail.com. The
-subject needs to be as follows; <first name, last name, ECE154a Project 6>. Note that this lab
-should be done individually.
 5. Acknowledgments
 This lab was originally designed by Prof. Luis Ceze.
